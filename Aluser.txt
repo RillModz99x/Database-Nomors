@@ -1,2 +1,2 @@
-rill : rill123
-admin : admin12
+rill:rill123
+admin:admin12
