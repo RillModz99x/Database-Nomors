@@ -1,5 +1,5 @@
 export default async function handler(req, res) {
-  const url = "https://raw.githubusercontent.com/RillModz99x/Database-Nomors/main/dbv7.json";
+  const url = "https://raw.githubusercontent.com/RillModz99x/Database-Nomors/main/ghp.json";
   try {
     const r = await fetch(url);
     const data = await r.json();
